@@ -1,0 +1,2 @@
+# osdas
+tgbot raspisaniye yiou
